@@ -1,0 +1,11 @@
+{
+  "main.js": "/ny-times/static/js/main.4a9e356e.chunk.js",
+  "main.js.map": "/ny-times/static/js/main.4a9e356e.chunk.js.map",
+  "static/js/1.aba28e19.chunk.js": "/ny-times/static/js/1.aba28e19.chunk.js",
+  "static/js/1.aba28e19.chunk.js.map": "/ny-times/static/js/1.aba28e19.chunk.js.map",
+  "runtime~main.js": "/ny-times/static/js/runtime~main.53f9945e.js",
+  "runtime~main.js.map": "/ny-times/static/js/runtime~main.53f9945e.js.map",
+  "index.html": "/ny-times/index.html",
+  "precache-manifest.25f7b3a1d7232baf205dd84f11aac235.js": "/ny-times/precache-manifest.25f7b3a1d7232baf205dd84f11aac235.js",
+  "service-worker.js": "/ny-times/service-worker.js"
+}
